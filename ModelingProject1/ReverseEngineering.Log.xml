@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-11-09T16:32:16" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1' -  (Package)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model' -  (Package)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item' -  (Interface)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::getName' -  (Operation)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::getPrice' -  (Operation)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::setName' -  (Operation)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::setName::a' -  (Parameter)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::setPrice' -  (Operation)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::setPrice::a' -  (Parameter)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::Lab1::Model::Item::ToString' -  (Operation)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-11-09T16:32:17" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
